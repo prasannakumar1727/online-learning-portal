@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Learning Portal</string>
+    <string name="title_activity_main">Learning Portal</string>
+    <string name="package_name">com.learningportal.app</string>
+    <string name="custom_url_scheme">com.learningportal.app</string>
+</resources>
